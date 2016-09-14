@@ -7,6 +7,7 @@ markdownLinkTest
 - [Big Title](#big-title)
 - [Medium Title](#medium-title) 
 - [Small Title](#small-title) 
+- [Title](#inner-title)  - the inner title
 
 # Title
 
@@ -34,6 +35,6 @@ Praesent nec euismod erat. Etiam ullamcorper ultrices tempus. Quisque accumsan c
 
 Cras vulputate tortor sed nulla tristique condimentum in sit amet ipsum. Sed condimentum convallis eleifend. Donec pharetra, enim eu rutrum tincidunt, massa arcu consequat ipsum, sed posuere neque lorem in felis. Donec faucibus quam quis est tincidunt, id aliquam leo tempor. Quisque eget massa pretium, pharetra justo iaculis, pulvinar magna. Nam facilisis dictum dictum. Aliquam tristique, sem nec euismod cursus, purus justo consequat enim, in sollicitudin lacus arcu ultrices neque. Integer et enim imperdiet, eleifend est sed, interdum eros. Mauris vitae elit molestie, ultricies mi nec, ultricies purus.
 
-#### Title
+#### Title <a id="inner-title"/>
 
 this is an inner title such that we can see what happens if Title is not uniq.
